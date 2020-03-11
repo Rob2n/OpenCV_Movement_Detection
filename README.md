@@ -13,4 +13,4 @@ Then, use the package manager [pip3](https://pip.pypa.io/en/stable/) to install 
 ```bash
 pip3 install opencv-python imutils
 ```
-You will also need to have the live_feed.mp4 file to test your program.
+You will also need to have the [live_feed.mp4](live_feed.mp4) file to test your program.
