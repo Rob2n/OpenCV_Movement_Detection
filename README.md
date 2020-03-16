@@ -14,3 +14,12 @@ Then, use the package manager [pip3](https://pip.pypa.io/en/stable/) to install 
 pip3 install opencv-python imutils
 ```
 You will also need to have the [live_feed.mp4](live_feed.mp4) file to test your program.
+
+In [movement_detection.py](movement_detection.py) you will find fully commented code to explain all the inner workings of the program
+
+## Run
+
+To run it, simply type :
+```bash
+python3 movement_detection.py live_feed.mp4
+```
